@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Emergency_Response</string>
+    <string name="login">Login</string>
+    <string name="todo">TODO</string>
+    <string name="logo">TODO</string>
+    <string name="Login">login</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="username">Username</string>
+    <string name="sign_up">Sign up</string>
+    <string name="Sign_up">Sign up</string>
+    <string name="fire">Fire</string>
+    <string name="road_accident">Road accident</string>
+    <string name="accident">accident</string>
+    <string name="fireimage">fireimage</string>
+    <string name="Email">Email</string>
+    <string name="my_map_api_key">AIzaSyAw2p4l9qAseNw0G99rEmJhjqgc0EMNtCQ</string>
+</resources>

@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Emergency_Response" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <!-- primary brand color. -->
+        <item name="colorPrimary">@color/maroon</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!--Secondary brand color-->
+        <item name="colorSecondary">@color/maroon</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color-->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+    </style>
+    <style name="Theme.Emergency_Response" parent="Base.Theme.Emergency_Response" />
+</resources>
